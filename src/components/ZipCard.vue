@@ -5,7 +5,7 @@
       <ion-card-title v-for="(place, index) in info.places" :key="index">{{place["place name"]}}</ion-card-title>
     </ion-card-header>
 
-    <ion-card-conte>
+    <ion-card-content>
       <ion-list>
         <ion-item>
           <ion-label>
@@ -14,7 +14,7 @@
           </ion-label>
         </ion-item>
       </ion-list>
-    </ion-card-conte>
+    </ion-card-content>
   </ion-card>
 </template>
 
