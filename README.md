@@ -1,29 +1,5 @@
-# zip-info
+# Zip Info
 
-## Project setup
-```
-npm install
-```
+App that finds the location by inserting ZIP number. Works only with some Slovak ZIP codes.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Made with Vue and Ionic.
